@@ -47,4 +47,4 @@ int main(){
     send(sock,buffer,strlen(buffer),0);
 
     return 0;
-}
+}  
